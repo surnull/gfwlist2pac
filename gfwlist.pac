@@ -3,11 +3,11 @@
  * GFWList Last-Modified: 2021-11-02 00:10:37
  */
 
-var proxy = 'SOCKS5 127.0.0.1:1080';
+var proxy = 'SOCKS5 127.0.0.1:10808';
 var rules = [
     [
         [],
-        []
+        ["docker.com", "freenom.com", "mvnrepository.com"]
     ],
     [
         [
