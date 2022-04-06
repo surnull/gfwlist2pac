@@ -7,7 +7,7 @@ var proxy = 'SOCKS5 127.0.0.1:10808';
 var rules = [
     [
         [],
-        ["docker.com", "freenom.com", "mvnrepository.com", "hostloc.com"]
+        ["docker.com", "freenom.com", "mvnrepository.com", "hostloc.com", "go.dev"]
     ],
     [
         [
